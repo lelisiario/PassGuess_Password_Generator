@@ -5,7 +5,10 @@ function generatePassword() {
   console.log ("Button has been clicked!");
 //1. prompt the user for password criteria
     // a. Password length 8 < 128 
-    // b. lowercase, uppercase, numbers and special characters
+    // b. Lowercase
+    // c. Uppercase
+    // d. Numbers
+    // e. special characters
 
 // 2. Validate the input
 
